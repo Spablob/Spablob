@@ -1,15 +1,10 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 I’m currently working on **a new game project aimed to bring the fun elements of traditional games in the unique GameFi setting**
+- 🔭 I’m currently looking for my next challenge**
 
-- 📦 Worked in the past as [a lead smart contracts engineer for Spectral Finance](http://spectral.finance)
+- 📦 Worked in the past as [smart contracts engineer for Mothora](Hackathon Project | https://devpost.com/software/mothora)
 
-- 💬 Ask me about **Mothora, react, hardhat, solidity, typescript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xtimepunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xtimepunk" height="30" width="40" /></a>
-</p>
+- 💬 Ask me about **Hardhat, Solidity, Typescript**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
