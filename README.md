@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 I’m currently looking for my next challenge
+- 🔭 I’m currently looking for my next challenge!
 
 - 📦 Worked as smart contracts engineer for Mothora | Chainlink Hackathon Top Quality Project | https://devpost.com/software/mothora
 
