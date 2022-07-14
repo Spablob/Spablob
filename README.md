@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently looking for my next challenge
 
-- 📦 Worked in the past as smart contracts engineer for Mothora (Hackathon Project | https://devpost.com/software/mothora)
+- 📦 Worked in the past as smart contracts engineer for Mothora (Chainlink Hackathon Top Quality Project | https://devpost.com/software/mothora)
 
 - 💬 Ask me about **Hardhat, Solidity, Typescript**
 
