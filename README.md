@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently looking for my next challenge!
 
-- 📦 Worked as smart contracts engineer for Mothora | Chainlink Hackathon Top Quality Project | https://devpost.com/software/mothora
+- 📦 Worked as smart contracts engineer for Mothora | Chainlink Hackathon Top Quality Prize | https://devpost.com/software/mothora
 
 <h3 align="left">Languages and Tools:</h3>
 
