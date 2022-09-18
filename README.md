@@ -1,6 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
-- 🔭 Always looking for my next challenge as Solidity Engineer! Currently in Freelance mode
+- 🔭 Always looking for my next challenge as freelance Solidity Engineer! 
 
 - 📦 Worked as smart contracts engineer for Mothora | Chainlink Hackathon Top Quality Prize | https://devpost.com/software/mothora
 
