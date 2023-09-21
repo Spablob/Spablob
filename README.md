@@ -4,4 +4,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🛠️ **Hardhat, Solidity, Typescript, Foundry**
+- 🛠️ **Solidity, Typescript, Hardhat, Foundry**
