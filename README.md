@@ -13,7 +13,7 @@
 
 - Core Protocol developer across licensing, royalty and dispute modules across multiple audit rounds. Protocol has 5M+ IPs registered | portal.story.foundation
 
-- Owner of governance smart contract design, Safe multisig operations, web3 internal security and smart contract monitoring
+- Owner of governance design, Safe multisig operations, web3 internal security and smart contract monitoring
 
 [Ribbon Finance / Aevo](https://www.aevo.xyz/) <sub>| Options, Perps and Strategies Exchange</sub>
 
