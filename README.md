@@ -15,7 +15,7 @@
 
 - Owner of governance smart contract design, Safe multisig operations, web3 internal security and smart contract monitoring
 
-[Ribbon Finance / Aevo](https://www.aevo.xyz/) <sub>| Options/Perps Exchange</sub>
+[Ribbon Finance / Aevo](https://www.aevo.xyz/) <sub>| Options/Perps/Strategies Exchange</sub>
 
 - Fully built out the smart contracts for an on-chain options OTC desk with 10M+ USD notional volume traded
 
