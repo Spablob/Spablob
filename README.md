@@ -15,13 +15,11 @@
 
 - Owner of governance smart contract design, Safe multisig operations, web3 internal security and smart contract monitoring
 
-[Ribbon Finance / Aevo](https://www.ribbon.finance/) <sub>| Options/Perps Exchange</sub>
+[Ribbon Finance / Aevo](https://www.aevo.xyz/) <sub>| Options/Perps Exchange</sub>
 
-- Fully built out the smart contracts for an on-chain options OTC desk with 10M+ USD notional
-volume traded. | otc.aevo.xyz
+- Fully built out the smart contracts for an on-chain options OTC desk with 10M+ USD notional volume traded
 
-- Helped build out ERC-4626 vaults and Ribbon Earn - an on-chain principal-protected structured
-product that reached a TVL of 7M USD
+- Helped build out ERC-4626 vaults and Ribbon Earn - an on-chain principal-protected structured product that reached a TVL of 7M USD
 
 </ul>
 
