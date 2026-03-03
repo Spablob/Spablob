@@ -11,7 +11,7 @@
 
 [Story](https://www.story.foundation/) <sub>| Protocol and L1 Infrastructure for the Intellectual Property Asset Class</sub>
 
-- Core Protocol developer across licensing, royalty and dispute modules across multiple audit rounds. Protocol has 5M+ IPs registered | https://portal.story.foundation/
+- Core Protocol developer across licensing, royalty and dispute modules across multiple audit rounds. Protocol has 5M+ IPs registered | portal.story.foundation
 
 - Owner of governance smart contract design, Safe multisig operations, web3 internal security and smart contract monitoring
 
