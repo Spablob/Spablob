@@ -4,7 +4,7 @@
     <strong>Senior Solidity Smart Contract Engineer</a></strong>
 </p>
 Senior Solidity engineer with 4+ years of production smart contract experience across DeFi vaults,
-on-chain derivatives and protocol-level RWA infrastructure. Core protocol engineer at Story/Data Foundation (6M+ IPs registered) — led a cross-functional product vertical team, drove multiple external audit rounds, and designed governance and Safe multisig operations end-to-end. Previously built structured products and options infrastructure (10M+ USD notional traded) at Ribbon Finance/Aevo.
+on-chain derivatives and protocol-level RWA infrastructure. Core protocol engineer at Story/Data Foundation (6M+ IPs registered) — led a cross-functional product vertical team, drove multiple external audit rounds, and designed/ran governance and Safe multisig operations end-to-end. Previously built structured products and options infrastructure (10M+ USD notional traded) at Ribbon Finance/Aevo.
 <hr />
 
 <h3>Track Record</h3>
