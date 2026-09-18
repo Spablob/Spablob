@@ -9,7 +9,13 @@ Senior Solidity engineer with 4+ years of production smart contract experience a
 <h3>Track Record</h3>
 <ul>
 
-[Story](https://www.story.foundation/) <sub>| RWA Infrastructure for the Intellectual Property Asset Class</sub>
+[Derive](https://www.derive.xyz/) <sub>| Crypto Options and Futures Protocol</sub>
+
+- Hardened the withdrawal and fund-custody path across the protocol’s core Solidity contracts.
+- Built the contract test suite covering the custody and settlement surface: fuzzing and invariant testing.
+- Deployment of LayerZero cross-chain bridging for the required collateral assets.
+
+<br>[Story](https://www.story.foundation/) <sub>| RWA Infrastructure for the Intellectual Property Asset Class</sub>
 
 - Architect/core protocol engineer across licensing, royalty and dispute modules over multiple audit rounds. Protocol has 6M+ IPs registered.
 - Led a cross-functional product vertical team (frontend, SDK, design, dev-rel) as protocol engineer — drove delivery from contract architecture through SDK/frontend integration to launch, while authoring the underlying solidity smart contracts.
